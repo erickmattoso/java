@@ -1,0 +1,13 @@
+package variables;
+
+public class Variables {
+	public static void main(String[] args){
+		int age = 27;
+		String name = "Erick";
+		String dogsName = "Meg";
+		
+		System.out.println(name + " is "+ age +" years old and his dog is " + dogsName);
+		
+	}
+
+}
